@@ -1,4 +1,4 @@
-# Misskey_TL-Speed_Adjuster
+# Misskey　TL-Speed　Adjuster
 ![GitHub](https://img.shields.io/github/license/rytar/Misskey_TL-Speed_Adjuster)
 
 This is a chrome extention for the reaction shooter on Misskey.
